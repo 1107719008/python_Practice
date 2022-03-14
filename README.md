@@ -1,2 +1,2 @@
 # python_OrderSystem
-a sample of py order system
+a sample practice of py code
